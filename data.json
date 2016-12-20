@@ -2,7 +2,7 @@
 	"courses": [
 		{
 			"name": "Patatas bravas",
-			"image": "https://358f1f36209370327aa89b64197383357165542c-www.googledrive.com/host/0B4pQ178h_PxzNzY5cW9vM0loVFU/patatas_bravas.jpg",
+			"image": "https://raw.githubusercontent.com/jotajotaramirez/restaurantr_resources/master/patatas_bravas.jpg",
 			"peanuts": false,
 			"milk": true,
 			"fish": false,
@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "Pizza",
-			"image": "https://358f1f36209370327aa89b64197383357165542c-www.googledrive.com/host/0B4pQ178h_PxzNzY5cW9vM0loVFU/pizza.png",
+			"image": "https://raw.githubusercontent.com/jotajotaramirez/restaurantr_resources/master/pizza.png",
 			"peanuts": false,
 			"milk": true,
 			"fish": true,
@@ -18,7 +18,7 @@
 		},
 		{
 			"name": "Hamburguesa",
-			"image": "https://358f1f36209370327aa89b64197383357165542c-www.googledrive.com/host/0B4pQ178h_PxzNzY5cW9vM0loVFU/hamburguesa.jpg",
+			"image": "https://raw.githubusercontent.com/jotajotaramirez/restaurantr_resources/master/hamburguesa.jpg",
 			"peanuts": false,
 			"milk": false,
 			"fish": false,
@@ -26,7 +26,7 @@
 		},
 		{
 			"name": "Sopa",
-			"image": "https://358f1f36209370327aa89b64197383357165542c-www.googledrive.com/host/0B4pQ178h_PxzNzY5cW9vM0loVFU/sopa.png",
+			"image": "https://raw.githubusercontent.com/jotajotaramirez/restaurantr_resources/master/sopa.png",
 			"peanuts": false,
 			"milk": false,
 			"fish": true,
@@ -34,7 +34,7 @@
 		},
 		{
 			"name": "Cocacola",
-			"image": "https://358f1f36209370327aa89b64197383357165542c-www.googledrive.com/host/0B4pQ178h_PxzNzY5cW9vM0loVFU/cocacola.jpeg",
+			"image": "https://raw.githubusercontent.com/jotajotaramirez/restaurantr_resources/master/cocacola.jpeg",
 			"peanuts": false,
 			"milk": false,
 			"fish": false,
@@ -42,7 +42,7 @@
 		},
 		{
 			"name": "Fanta de naranja",
-			"image": "https://358f1f36209370327aa89b64197383357165542c-www.googledrive.com/host/0B4pQ178h_PxzNzY5cW9vM0loVFU/fanta.jpg",
+			"image": "https://raw.githubusercontent.com/jotajotaramirez/restaurantr_resources/master/fanta.jpg",
 			"peanuts": false,
 			"milk": false,
 			"fish": false,
@@ -50,7 +50,7 @@
 		},
 		{
 			"name": "Burrito",
-			"image": "https://358f1f36209370327aa89b64197383357165542c-www.googledrive.com/host/0B4pQ178h_PxzNzY5cW9vM0loVFU/burrito.jpg",
+			"image": "https://raw.githubusercontent.com/jotajotaramirez/restaurantr_resources/master/burrito.jpg",
 			"peanuts": true,
 			"milk": true,
 			"fish": false,
@@ -58,7 +58,7 @@
 		},
 		{
 			"name": "Cerveza",
-			"image": "https://358f1f36209370327aa89b64197383357165542c-www.googledrive.com/host/0B4pQ178h_PxzNzY5cW9vM0loVFU/cerveza.jpg",
+			"image": "https://raw.githubusercontent.com/jotajotaramirez/restaurantr_resources/master/cerveza.jpg",
 			"peanuts": true,
 			"milk": false,
 			"fish": false,
@@ -66,7 +66,7 @@
 		},
 		{
 			"name": "Migas con chorizo",
-			"image": "https://358f1f36209370327aa89b64197383357165542c-www.googledrive.com/host/0B4pQ178h_PxzNzY5cW9vM0loVFU/migas.jpg",
+			"image": "https://raw.githubusercontent.com/jotajotaramirez/restaurantr_resources/master/migas.jpg",
 			"peanuts": false,
 			"milk": false,
 			"fish": false,
